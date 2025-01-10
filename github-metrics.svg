@@ -273,7 +273,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">afd1d9f1</span>
-                            <span class="code">icons/images/favicon.ico</span>
+                            <span class="code">icons/images/apple-touch-startup-image-1242x2208.png</span>
                             <span class="code">
                                 <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
@@ -284,7 +284,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version https://git-lfs.github.com/spec/v1<br /></span><span class="token prefix inserted">+</span><span class="token line">oid sha256:ee21603d4d99556162a95396fcb2c0b83613e6c3fc40c11f6d37fbd8cb1d8af9<br /></span><span class="token prefix inserted">+</span><span class="token line">size 33310</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version https://git-lfs.github.com/spec/v1<br /></span><span class="token prefix inserted">+</span><span class="token line">oid sha256:eca43639b112ef7e280940027ab8b898cdd021ee02e820802f9fc1cf8bfd04f6<br /></span><span class="token prefix inserted">+</span><span class="token line">size 540584</span></span></code>
                         </div>
                     </section>
                 </div>
